@@ -1,0 +1,15 @@
+[alias]
+	diffs = diff --staged
+	gdiff = difftool --gui
+	gdiffs = difftool --gui --staged
+	oclean = clean -d -ff -x
+	orclean = submodule foreach --recursive 'git clean -d -ff -x'
+	oreset = reset --hard
+	orreset = submodule foreach --recursive 'git reset --hard'
+[diff]
+	guitool = meld
+[difftool]
+	prompt = false
+[user]
+	email = markuspg@users.noreply.github.com
+	name = markuspg

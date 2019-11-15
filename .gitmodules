@@ -1,9 +1,66 @@
+[submodule "A13Bootstrapping"]
+	path = retired_projects/A13Bootstrapping
+	url = https://github.com/markuspg/A13Bootstrapping.git
+[submodule "BachelorThesis"]
+	path = retired_projects/BachelorThesis
+	url = https://github.com/markuspg/BachelorThesis.git
 [submodule "BibleByByte"]
 	path = active_projects/BibleByByte
 	url = https://github.com/markuspg/BibleByByte.git
+[submodule "ClientClient"]
+	path = retired_projects/ClientClient
+	url = https://github.com/markuspg/ClientClient.git
+[submodule "EcoLabLib"]
+	path = retired_projects/EcoLabLib
+	url = https://github.com/markuspg/EcoLabLib.git
+[submodule "HelpMessageSender"]
+	path = retired_projects/HelpMessageSender
+	url = https://github.com/markuspg/HelpMessageSender.git
+[submodule "Labcontrol"]
+	path = retired_projects/Labcontrol
+	url = https://github.com/markuspg/Labcontrol.git
+[submodule "LeitnerLearner"]
+	path = retired_projects/LeitnerLearner
+	url = https://github.com/markuspg/LeitnerLearner.git
+[submodule "MasterThesis"]
+	path = retired_projects/MasterThesis
+	url = https://github.com/markuspg/MasterThesis.git
+[submodule "Miscellaneous"]
+	path = retired_projects/Miscellaneous
+	url = https://github.com/markuspg/Miscellaneous.git
+[submodule "PrSi"]
+	path = retired_projects/PrSi
+	url = https://github.com/markuspg/PrSi.git
+[submodule "SenseHatStuff"]
+	path = retired_projects/SenseHatStuff
+	url = https://github.com/markuspg/SenseHatStuff.git
+[submodule "WebcamDisplay"]
+	path = retired_projects/WebcamDisplay
+	url = https://github.com/markuspg/WebcamDisplay.git
+[submodule "bullhead_mod"]
+	path = retired_projects/bullhead_mod
+	url = https://github.com/markuspg/bullhead_mod.git
+[submodule "instance_generator"]
+	path = retired_projects/instance_generator
+	url = https://github.com/markuspg/instance_generator.git
 [submodule "markuspg.github.io"]
 	path = active_projects/markuspg.github.io
 	url = https://github.com/markuspg/markuspg.github.io.git
+[submodule "platform_build"]
+	path = retired_projects/platform_build
+	url = https://github.com/markuspg/platform_build.git
+[submodule "platform_external_giflib"]
+	path = retired_projects/platform_external_giflib
+	url = https://github.com/markuspg/platform_external_giflib.git
+[submodule "platform_manifest"]
+	path = retired_projects/platform_manifest
+	url = https://github.com/markuspg/platform_manifest.git
 [submodule "programmingpilgrim"]
 	path = active_projects/programmingpilgrim
 	url = https://github.com/markuspg/programmingpilgrim.git
+[submodule "tensorflow_experiments"]
+	path = retired_projects/tensorflow_experiments
+	url = https://github.com/markuspg/tensorflow_experiments.git
+[submodule "xinput_calibrator"]
+	path = retired_projects/xinput_calibrator
+	url = https://github.com/markuspg/xinput_calibrator.git

@@ -1,0 +1,9 @@
+[submodule "BibleByByte"]
+	path = active_projects/BibleByByte
+	url = https://github.com/markuspg/BibleByByte.git
+[submodule "markuspg.github.io"]
+	path = active_projects/markuspg.github.io
+	url = https://github.com/markuspg/markuspg.github.io.git
+[submodule "programmingpilgrim"]
+	path = active_projects/programmingpilgrim
+	url = https://github.com/markuspg/programmingpilgrim.git

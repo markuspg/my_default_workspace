@@ -1,4 +1,7 @@
 filetype plugin on
+let g:lightline = {
+      \ 'colorscheme': 'solarized',
+      \ }
 set cursorline
 set encoding=utf-8
 set hlsearch

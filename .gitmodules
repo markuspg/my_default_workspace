@@ -61,6 +61,9 @@
 [submodule "tensorflow_experiments"]
 	path = retired_projects/tensorflow_experiments
 	url = https://github.com/markuspg/tensorflow_experiments.git
+[submodule "vim-lightline"]
+	path = .vim/pack/plugins/start/lightline
+	url = https://github.com/itchyny/lightline.vim
 [submodule "xinput_calibrator"]
 	path = retired_projects/xinput_calibrator
 	url = https://github.com/markuspg/xinput_calibrator.git

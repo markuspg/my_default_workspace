@@ -67,3 +67,12 @@
 [submodule "xinput_calibrator"]
 	path = retired_projects/xinput_calibrator
 	url = https://github.com/markuspg/xinput_calibrator.git
+[submodule "Python"]
+	path = interesting_projects/cpython
+	url = https://github.com/python/cpython.git
+[submodule "CMake"]
+	path = interesting_projects/cmake
+	url = https://gitlab.kitware.com/cmake/cmake.git
+[submodule "Asciidoctor"]
+	path = interesting_projects/asciidoctor
+	url = https://github.com/asciidoctor/asciidoctor.git

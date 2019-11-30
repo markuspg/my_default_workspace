@@ -1,0 +1,49 @@
+= Software Architecture Document
+John Doe <john.doe@example.com>
+v0.1, November 30, 2019
+
+== Revision History
+
+[options="header"]
+|===
+
+| Date | Version | Changes | Author
+
+| | | | 
+
+|===
+
+== Introduction
+
+=== Purpose
+
+=== Scope
+
+=== References
+
+=== Glossary
+
+[options="header"]
+|===
+
+| Term | Description
+
+| | 
+
+|===
+
+== Architectural Representation
+
+== Architectural Goals and Constraints
+
+== Use-Case View
+
+== Logical View
+
+== Process View
+
+== Deployment View
+
+== Performance Characteristics
+
+== Quality

@@ -76,3 +76,6 @@
 [submodule "Asciidoctor"]
 	path = interesting_projects/asciidoctor
 	url = https://github.com/asciidoctor/asciidoctor.git
+[submodule "rust.vim"]
+	path = .vim/pack/plugins/start/rust.vim
+	url = https://github.com/rust-lang/rust.vim

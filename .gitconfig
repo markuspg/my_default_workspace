@@ -6,6 +6,8 @@
 	orclean = submodule foreach --recursive 'git clean -d -ff -x'
 	oreset = reset --hard
 	orreset = submodule foreach --recursive 'git reset --hard'
+[core]
+	editor = /usr/bin/vim
 [diff]
 	guitool = meld
 [difftool]

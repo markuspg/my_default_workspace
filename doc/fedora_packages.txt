@@ -1,0 +1,9 @@
+diffuse
+gedit-plugin-drawspaces
+git-svn
+gitk
+gnome-tweaks
+make
+meld
+rubygem-asciidoctor
+vim-enhanced

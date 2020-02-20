@@ -1,4 +1,7 @@
 build-essential
+clang
+clang-format
+clazy
 cmake
 cmake-doc
 curl
@@ -17,4 +20,10 @@ inkscape
 meld
 open-vm-tools
 open-vm-tools-desktop
+qt5-default
+qt5-doc
+qtcreator
+qtcreator-doc
+qttools5-dev-tools
+valgrind
 vim

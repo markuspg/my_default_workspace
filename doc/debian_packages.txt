@@ -1,4 +1,5 @@
 build-essential
+cargo
 clang
 clang-format
 clazy
@@ -14,6 +15,7 @@ git-svn
 gitk
 graphviz
 graphviz-doc
+hugo
 imagemagick
 imagemagick-doc
 inkscape

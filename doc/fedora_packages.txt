@@ -1,3 +1,4 @@
+cargo
 clang
 clazy
 cmake
@@ -9,6 +10,7 @@ git-svn
 gitk
 gnome-tweaks
 graphviz
+hugo
 ImageMagick
 inkscape
 make

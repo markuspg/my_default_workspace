@@ -5,14 +5,16 @@ clang-format
 clazy
 cmake
 cmake-doc
+cppcheck
 curl
 debian-keyring
-diffuse
 gimp
 git
 git-doc
 git-svn
 gitk
+gnome-shell-extensions
+gnome-tweaks
 graphviz
 graphviz-doc
 hugo

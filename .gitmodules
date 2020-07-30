@@ -79,3 +79,7 @@
 [submodule "rust.vim"]
 	path = .vim/pack/plugins/start/rust.vim
 	url = https://github.com/rust-lang/rust.vim
+[submodule "active_projects/rutema"]
+	path = active_projects/rutema
+	url = https://github.com/markuspg/rutema.git
+	branch = merge_kimo_fixes

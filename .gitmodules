@@ -89,3 +89,6 @@
 [submodule "IBHArchiver"]
 	path = active_projects/ibharchiver
 	url = https://github.com/markuspg/ibharchiver.git
+[submodule "GnoTime"]
+	path = active_projects/gnotime
+	url = https://github.com/markuspg/gnotime.git

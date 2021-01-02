@@ -92,3 +92,6 @@
 [submodule "GnoTime"]
 	path = active_projects/gnotime
 	url = https://github.com/markuspg/gnotime.git
+[submodule "diffuse-ng"]
+	path = active_projects/diffuse-ng
+	url = https://github.com/markuspg/diffuse-ng.git

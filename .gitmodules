@@ -86,3 +86,6 @@
 [submodule "patir"]
 	path = active_projects/patir
 	url = https://github.com/markuspg/patir.git
+[submodule "IBHArchiver"]
+	path = active_projects/ibharchiver
+	url = https://github.com/markuspg/ibharchiver.git

@@ -29,5 +29,7 @@ qt5-doc
 qtcreator
 qtcreator-doc
 qttools5-dev-tools
+ruby
+ruby-dev
 valgrind
 vim

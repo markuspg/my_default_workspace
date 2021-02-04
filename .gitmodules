@@ -95,3 +95,6 @@
 [submodule "diffuse-ng"]
 	path = active_projects/diffuse-ng
 	url = https://github.com/markuspg/diffuse-ng.git
+[submodule "batir"]
+	path = active_projects/batir
+	url = https://github.com/markuspg/batir.git

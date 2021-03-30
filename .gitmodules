@@ -81,7 +81,7 @@
 	url = https://github.com/rust-lang/rust.vim
 [submodule "active_projects/rutema"]
 	path = active_projects/rutema
-	url = https://github.com/markuspg/rutema.git
+	url = https://github.com/damphyr/rutema.git
 	branch = merge_kimo_fixes
 [submodule "IBHArchiver"]
 	path = active_projects/ibharchiver

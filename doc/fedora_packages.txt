@@ -1,7 +1,9 @@
 cargo
 clang
+clang-tools-extra
 clazy
 cmake
+cppcheck
 debian-keyring
 diffuse
 gedit-plugin-drawspaces
@@ -18,6 +20,7 @@ meld
 qt-creator
 qt5-devel
 qtcreator-doc
+ruby
 rubygem-asciidoctor
 valgrind
 vim-enhanced

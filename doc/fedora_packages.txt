@@ -5,7 +5,8 @@ clazy
 cmake
 cppcheck
 debian-keyring
-diffuse
+doxygen
+doxygen-doxywizard
 gedit-plugin-drawspaces
 gimp
 git-svn

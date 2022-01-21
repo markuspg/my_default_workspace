@@ -95,3 +95,6 @@
 [submodule "patir"]
 	path = active_projects/patir
 	url = https://github.com/damphyr/patir.git
+[submodule "gaudi"]
+	path = active_projects/gaudi
+	url = https://github.com/markuspg/gaudi

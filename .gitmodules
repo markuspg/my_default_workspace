@@ -79,22 +79,9 @@
 [submodule "rust.vim"]
 	path = .vim/pack/plugins/start/rust.vim
 	url = https://github.com/rust-lang/rust.vim
-[submodule "active_projects/rutema"]
-	path = active_projects/rutema
-	url = https://github.com/damphyr/rutema.git
-	branch = merge_kimo_fixes
 [submodule "IBHArchiver"]
 	path = active_projects/ibharchiver
 	url = https://github.com/markuspg/ibharchiver.git
 [submodule "GnoTime"]
 	path = active_projects/gnotime
 	url = https://github.com/markuspg/gnotime.git
-[submodule "diffuse-ng"]
-	path = active_projects/diffuse-ng
-	url = https://github.com/markuspg/diffuse-ng.git
-[submodule "patir"]
-	path = active_projects/patir
-	url = https://github.com/damphyr/patir.git
-[submodule "gaudi"]
-	path = active_projects/gaudi
-	url = https://github.com/markuspg/gaudi
